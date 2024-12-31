@@ -10,3 +10,25 @@
   border-radius: 50%;
 
 }
+
+
+.biografia {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/assets/fondo.jpg);
+}
+
+.carousel-caption {
+  color: white;
+  font-weight: 700;
+  background-color: rgba(143, 139, 139, 0.705);
+  border-radius: 10px;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5), -2px -2px 4px rgba(27, 13, 13, 0.7);
+}
+
+.button {
+  color: black;
+}
